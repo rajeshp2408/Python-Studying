@@ -1,0 +1,13 @@
+<?xml version="1.0">
+<Department>
+<Cost_Center>Co1Asog</Cost_Center>
+<Responsibility>Accounting</Responsibility>
+<Leader>John Smith</Leader>
+<Employees>
+<Employee>
+<Name>Mark</Name>
+<Position>Internal Accounting</Position>
+<Hiring_Date>Mar 24,2010</Hiring_Date>
+</Employee>
+</Employees>
+</Department>
